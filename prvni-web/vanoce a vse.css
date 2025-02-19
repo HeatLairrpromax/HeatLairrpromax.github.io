@@ -1,0 +1,17 @@
+.popisovec{
+    max-width: 1400px;
+    margin:0 auto;
+    padding-top: 3%;
+    border: 130px;
+    }
+    
+    .sakryš {
+    background-color: rgb(172, 13, 13);
+        font-size: 69px;
+            text-decoration: underline;
+    }
+    .nadpis {
+        background: rgb(124, 24, 24);
+            font-size: 69px;
+            text-decoration: underline;
+    }
